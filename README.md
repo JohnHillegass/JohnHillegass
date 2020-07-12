@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm [John!](https://4g3.dev) 
 
-<a href="https://twitter.com/johnphillegass">
-  <img align="left" alt="John Hillegass Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/johnhillegass/">
-  <img align="left" alt="John Hillegass LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+	<a href="https://github.com/JohnHillegass"><img src="https://img.shields.io/github/followers/JohnHillegass.svg?label=GitHub&style=social" alt="John Hillegass GitHub"></a>
+	<a href="https://twitter.com/johnphillegass"><img src="https://img.shields.io/twitter/follow/johnphillegass?label=Twitter&style=social" alt="John Hillegass Twitter"></a>
+	<a href="https://www.linkedin.com/in/johnhillegass"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="John Hillegass LinkedIn"></a>
+	<a href="https://github.com/sponsors/JohnHillegass"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="John Hillegass GitHub Sponsors"></a>
+</p>
 
 <br />
 <br />
