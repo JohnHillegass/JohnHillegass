@@ -8,14 +8,13 @@
 </a>
 
 <br />
-<br />
 
-Hi, I'm John Hillegass, a software engineer and security professional that currently works on a team responsible for designing and implementing cloud security measures. I have a master's degree in Cybersecurity and numerous industry-recognized certifications such as AWS Solutions Architect, AWS DevOps Professional, AWS Security Specialist, Salesforce Application Architect and Certified Ethical Hacker (CEH). Combined, I have about a decade worth of experience in IT and have done some interesting work in the Financial, Private, and Government sectors. Some notable examples are work with the USDA Digital Services Center, GSA, sNimbus Compliance Seal, and Cloud Custodian. In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I am happily married to a wife of 2 years, live in the lovely city of Richmond Virginia, and have a terribly sneaky but adorable cat named Charlie.
+**About Me:**
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
-
+- I am a software engineer and security professional that currently works on a team responsible for designing and implementing cloud security measures
+- I have a master's degree in Cybersecurity and numerous industry-recognized certifications such as AWS Solutions Architect, AWS DevOps Professional, AWS Security Specialist, Salesforce Application Architect and Certified Ethical Hacker (CEH)
+- Combined, I have about a decade worth of experience in IT and have done some interesting work in the Financial, Private, and Government sectors. Some notable examples are work with the USDA Digital Services Center, GSA, sNimbus Compliance Seal, and Cloud Custodian
+- In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I am happily married to a wife of 2 years, live in the lovely city of Richmond Virginia, and have a terribly sneaky but adorable cat named Charlie.
 - 👨🏽‍💻 I’m currently working on [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian);
 - 🌱 I’m currently learning about AST and LALR parsers; 
 - 👯 I’m looking to collaborate on python and security engineering projects 🤝;
@@ -31,3 +30,5 @@ Hi, I'm John Hillegass, a software engineer and security professional that curre
 ![Johns's github stats](https://github-readme-stats.vercel.app/api?username=johnhillegass&show_icons=true&hide_border=true)
 
 ⭐️ From [johnhillegass](https://github.com/johnhillegass)
+
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
