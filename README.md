@@ -4,6 +4,7 @@
 	<a href="https://github.com/JohnHillegass"><img src="https://img.shields.io/github/followers/JohnHillegass.svg?label=GitHub&style=social" alt="John Hillegass GitHub"></a>
 	<a href="https://twitter.com/johnphillegass"><img src="https://img.shields.io/twitter/follow/johnphillegass?label=Twitter&style=social" alt="John Hillegass Twitter"></a>
 	<a href="https://www.linkedin.com/in/johnhillegass"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="John Hillegass LinkedIn"></a>
+	<a href="https://medium.com/@johnphillegass"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="John Hillegass Medium"></a>
 	<a href="https://github.com/sponsors/JohnHillegass"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="John Hillegass GitHub Sponsors"></a>
 </p>
 
