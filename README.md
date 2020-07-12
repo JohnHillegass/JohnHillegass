@@ -8,6 +8,9 @@
 </a>
 
 <br />
+<br />
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
 
 **About Me:**
 
@@ -17,7 +20,7 @@
 - In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I am happily married to a wife of 2 years, live in the lovely city of Richmond Virginia, and have a terribly sneaky but adorable cat named Charlie.
 - 👨🏽‍💻 I’m currently working on [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian);
 - 🌱 I’m currently learning about AST and LALR parsers; 
-- 👯 I’m looking to collaborate on python and security engineering projects 🤝;
+- I’m looking to collaborate on python and security engineering projects 🤝;
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -30,5 +33,3 @@
 ![Johns's github stats](https://github-readme-stats.vercel.app/api?username=johnhillegass&show_icons=true&hide_border=true)
 
 ⭐️ From [johnhillegass](https://github.com/johnhillegass)
-
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
