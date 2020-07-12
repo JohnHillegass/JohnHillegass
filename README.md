@@ -7,9 +7,6 @@
 	<a href="https://github.com/sponsors/JohnHillegass"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="John Hillegass GitHub Sponsors"></a>
 </p>
 
-<br />
-<br />
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
 
 **About Me:**
