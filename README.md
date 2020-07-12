@@ -15,7 +15,6 @@
 **About Me:**
 
 - I am a software engineer and security professional that currently works on a team responsible for designing and implementing cloud security measures
-- Combined, I have about a decade worth of experience in IT and have done some interesting work in the Financial, Private, and Government sectors. Some notable examples are work with the USDA Digital Services Center, GSA, sNimbus Compliance Seal, and Cloud Custodian
 - In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I am happily married to a wife of 2 years, live in the lovely city of Richmond Virginia, and have a terribly sneaky but adorable cat named Charlie.
 - 👨🏽‍💻 I’m currently working on [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian);
 - 🌱 I’m currently learning about AST and LALR parsers; 
