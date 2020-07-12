@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [John!](https://4g3.dev) 
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/JohnHillegass"><img src="https://img.shields.io/github/followers/JohnHillegass.svg?label=GitHub&style=social" alt="John Hillegass GitHub"></a>
 	<a href="https://twitter.com/johnphillegass"><img src="https://img.shields.io/twitter/follow/johnphillegass?label=Twitter&style=social" alt="John Hillegass Twitter"></a>
 	<a href="https://www.linkedin.com/in/johnhillegass"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="John Hillegass LinkedIn"></a>
