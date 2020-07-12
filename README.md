@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm [John!](https://4g3.dev) 
 
 <a href="https://twitter.com/johnphillegass">
-  <img align="left" alt="John Hillegass Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="John Hillegass Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/johnhillegass/">
-  <img align="left" alt="John Hillegass LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="John Hillegass LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br />
