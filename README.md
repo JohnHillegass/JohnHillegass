@@ -13,7 +13,7 @@
 **About Me:**
 
 - I am a software engineer and security professional that currently leads a team responsible for designing and implementing cloud security measures
-- In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I live in the lovely city of Richmond Virginia and have a terribly sneaky but adorable cat named Charlie
+- In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I live in the lovely city of Richmond, VA and have a terribly sneaky but adorable cat named Charlie
 - 👨🏽‍💻 I’m currently working on [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 - I’m looking to collaborate on cloud security projects 🤝
 - 💬 Ask me about anything, I am happy to help;
