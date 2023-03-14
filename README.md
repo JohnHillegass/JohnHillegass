@@ -12,9 +12,10 @@
 
 **About Me:**
 
-- I am an open source enthusiast responsible for building great developer experiences
-- In my free time, I like to enjoy locally roasted coffees, artisan chocolates, fine cheeses, and craft microbrews. I live in the lovely city of Richmond, VA and have a terribly sneaky but adorable cat named Charlie
-- 💬 If it has to do with clouds, security, containers or open source, feel free to reeach out. I am happy to help;
+- I am an individual contributer at the staff+ level
+- I am a husband, father, mentor and friend
+- I'm a huge fan of soulsbourne and rpg style games, voracious consumer of sci-fi/fantasy/comedic content, practitioner of yoga and you can often find me tinkering with our home network 😆
+- 💬 If it has to do with clouds, security, containers or open source, feel free to reach out. I'm happy to have a chat and discuss technology;
 
 **Languages and Tools:**  
 
