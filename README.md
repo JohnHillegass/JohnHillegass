@@ -8,12 +8,12 @@
 	<a href="https://github.com/sponsors/JohnHillegass"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="John Hillegass GitHub Sponsors"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zE9Jh7QahXTb2/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/PkCDv7CIK8d2M/giphy.gif" />
 
 **About Me:**
 
-- I am an individual contributer at the staff+ level
-- I am a husband, father, mentor and friend
+- I'm an individual contributer at the staff+ level
+- I'm a husband, father, mentor and friend
 - I'm a huge fan of soulsbourne and rpg style games, voracious consumer of sci-fi/fantasy/comedic content, practitioner of yoga and you can often find me tinkering with our home network 😆
 - 💬 If it has to do with clouds, security, containers or open source, feel free to reach out. I'm happy to have a chat and discuss technology;
 
